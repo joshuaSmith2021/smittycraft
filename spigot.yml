@@ -20,7 +20,7 @@ settings:
   late-bind: false
   timeout-time: 60
   restart-on-crash: true
-  restart-script: ./start.sh
+  restart-script: ./run.bat
   netty-threads: 4
   sample-count: 12
   user-cache-size: 1000
